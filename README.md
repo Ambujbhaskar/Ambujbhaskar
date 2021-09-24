@@ -1,7 +1,7 @@
 * 👋 Hi, I’m @Ambujbhaskar
-* 👀 I’m interested in Computer Science , UI and UX design.
-* 🌱 I’m currently learning Java, Data Structures and algorithms.
-* 💞️ I’m looking to collaborate on Java and python projects (beginner to intermediate level) or UI/UX prototyping and design projects.
+* 👀 I’m interested in Software Development, WEb Development, UI and UX design.
+* 🌱 I’m currently learning Web Development.
+* 💞️ I’m looking to collaborate on Web development projects or UI/UX prototyping and design projects.
 * 📫 How to reach me: bhaskarambuj7@gmail.com or ambuj20358@iiitd.ac.in
 
 <!---
