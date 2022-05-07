@@ -1,4 +1,8 @@
-* 👋 Hi, I’m @Ambujbhaskar
+<img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="200" height="150">
+
+## 👋 Hi, I’m Ambuj Bhaskar
+
+
 * 👀 I’m interested in Software Development, Web Development, Game Development, UI and UX design.
 * 🌱 I’m currently learning React.JS.
 * 💞️ I’m looking to collaborate on Web development projects or game development and design projects.
