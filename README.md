@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="200" height="150">
+<img src="./hello.gif" width="200" height="150">
 
 ## 👋 Hi, I’m Ambuj Bhaskar
 
