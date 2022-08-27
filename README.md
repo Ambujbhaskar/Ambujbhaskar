@@ -21,8 +21,8 @@
 ![](https://img.shields.io/badge/-InDesign-d14b73)
 ![](https://img.shields.io/badge/-Fusion_360-ba742f)
 
-* 👀 I’m interested in Software Development, Web Development, Game Development, UI and UX design.
-* 🌱 I’m currently learning React.JS.
-* 💞️ I’m looking to collaborate on Web development projects or Game Design and Development projects.
+* 👀 I’m interested in Software Development, Web Development, Game Development, Web design.
+* 🌱 I’m currently learning Electron.js.
+* 💞️ I’m looking to collaborate and learn on Web development projects or Game Development projects.
 * 📫 How to reach me: bhaskarambuj7@gmail.com or ambuj20358@iiitd.ac.in
 
