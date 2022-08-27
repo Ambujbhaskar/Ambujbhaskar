@@ -9,11 +9,11 @@
 ![](https://img.shields.io/badge/-C-0011ff)
 <!-- ![](https://img.shields.io/badge/-C%23-2d1085) -->
 
+![](https://img.shields.io/badge/-Next-341110)
 ![](https://img.shields.io/badge/-React-24fff1)
 ![](https://img.shields.io/badge/-Express-dddddd)
 ![](https://img.shields.io/badge/-Node-129920)
 ![](https://img.shields.io/badge/-MySQL-127199)
-![](https://img.shields.io/badge/-Git-113b14)
 
 ![](https://img.shields.io/badge/-Figma-7f188c)
 ![](https://img.shields.io/badge/-Adobe_XD-8c1833)
