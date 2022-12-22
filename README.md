@@ -23,7 +23,6 @@
 ![](https://img.shields.io/badge/-Adobe_XD-8c1833)
 ![](https://img.shields.io/badge/-Illustrator-ff0000)
 ![](https://img.shields.io/badge/-InDesign-d14b73)
-![](https://img.shields.io/badge/-Fusion_360-ba742f)
 ![](https://img.shields.io/badge/-Blender-eb4d0e)
 ![](https://img.shields.io/badge/-Substance_3D_Painter-129920)
 
