@@ -19,10 +19,7 @@
 ![](https://img.shields.io/badge/-ImGui-2d1085)
 ![](https://img.shields.io/badge/-JavaFX-red)
 
-![](https://img.shields.io/badge/-Figma-7f188c)
-![](https://img.shields.io/badge/-Adobe_XD-8c1833)
 ![](https://img.shields.io/badge/-Illustrator-ff0000)
-![](https://img.shields.io/badge/-InDesign-d14b73)
 ![](https://img.shields.io/badge/-Blender-eb4d0e)
 ![](https://img.shields.io/badge/-Substance_3D_Painter-129920)
 
@@ -30,4 +27,3 @@
 * 🌱 I’m currently learning Electron.js.
 * 💞️ I’m looking to collaborate and learn on Web development projects or Game Development projects.
 * 📫 How to reach me: bhaskarambuj7@gmail.com or ambuj20358@iiitd.ac.in
-
