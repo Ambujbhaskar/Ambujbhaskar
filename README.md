@@ -15,7 +15,8 @@
 ![](https://img.shields.io/badge/-Svelte-f76b00)
 ![](https://img.shields.io/badge/-Express-dddddd)
 ![](https://img.shields.io/badge/-Node-129920)
-![](https://img.shields.io/badge/-MySQL-127199)
+![](https://img.shields.io/badge/-MySQL-1271f9)
+![](https://img.shields.io/badge/-PostgreSQL-127179)
 
 ![](https://img.shields.io/badge/-OpenGL3-129920)
 ![](https://img.shields.io/badge/-ImGui-2d1085)
