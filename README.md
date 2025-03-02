@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3ZZ8r1DGDsIt0VFxiR/giphy.gif" width="200" height="150">
+<img src="singing_guts.jpg">
 
 ### hi, I’m ambuj.
 i like to build stuff.
